@@ -45,6 +45,7 @@ Updated balance each month =
 Created on Wed Jun 19 19:30:59 2019
 
 @author: Wishnuputra
+=========================================================
 """
 
 balance = 320000

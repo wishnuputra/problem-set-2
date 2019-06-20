@@ -27,6 +27,7 @@ Monthly payment upper bound = (Balance x (1 + Monthly interest rate)) / 12.0
 Created on Thu Jun 20 09:26:31 2019
 
 @author: Wishnuputra
+=========================================================
 """
 
 balance = 999999
