@@ -1,55 +1,23 @@
 ==============
-Problem Set 1
+Problem Set 2
 ==============
 
-These repository are my program for the problem set 1
+These repository are my program for the problem set 2
 of MIT 6.00.1x course.
 
-Problem set 1 consists of the problems as follows:
+Problem set 2 is about calculating fixed monthly payment
+of a credit card.
 
------------------------------------------------------
+Each month, a credit card statement will come with the
+option for you to pay a minimum amount of your charge,
+usually 2% of the balance due. However, the credit card
+company earns money by charging interest on the balance
+that you don't pay. So even if you pay credit card
+payments on time, interest is still accruing on the
+outstanding balance.
 
-Problem 1:
-
-Assume s is a string of lower case characters.
-
-Write a program that counts up the number of vowels
-contained in the string s. Valid vowels are: 
-'a', 'e', 'i', 'o', and 'u'. For example,
-if s = 'azcbobobegghakl', your program should print:
-
-"Number of vowels: 5"
-
------------------------------------------------------
-
-Problem 2:
-
-Assume s is a string of lower case characters.
-
-Write a program that prints the number of times the
-string 'bob' occurs in s. For example,
-if s = 'azcbobobegghakl', then your program should
-print:
-
-"Number of times bob occurs is: 2"
-
------------------------------------------------------
-
-Problem 3:
-
-Assume s is a string of lower case characters.
-
-Write a program that prints the longest substring
-of s in which the letters occur in alphabetical
-order. For example, if s = 'azcbobobegghakl', then
-your program should print:
-
-"Longest substring in alphabetical order is: beggh"
-
-In the case of ties, print the first substring.
-For example, if s = 'abcbcd', then your program
-should print:
-
-"Longest substring in alphabetical order is: abc"
-
------------------------------------------------------
+For example:
+Say you've made a $5,000 purchase on a credit card with
+an 18% annual interest rate and a 2% minimum monthly
+payment rate. If you only pay the minimum monthly amount
+for a year, how much is the remaining balance?
